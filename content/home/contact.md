@@ -9,48 +9,30 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: "Want to talk more? I'd be happy to connect with you!"
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: nipantika.nipa@gmail.com
+  phone: +60 17-2471083
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Baran Vaidya House
+    city: Raozan
+    region: Chattogram
+    postcode: '4340'
+    country: Bangladesh
+    country_code: BD
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '22.5277056'
+    longitude: '91.9207616'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/nipa_das_gupta'
 
 design:
   columns: '2'
