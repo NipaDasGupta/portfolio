@@ -29,10 +29,7 @@ experience:
     location: Selangor, Malaysia
     date_start: '2022-06-01'
     date_end: '2022-09-31'
-    description: |2-
-        Responsibilities include:
-
-        *  Implemented and evaluated machine learning models for face detection and face recognition based on e-KYC documents.
+    description: Implemented and evaluated machine learning models for face detection and face recognition based on e-KYC documents.
 
 design:
   columns: '2'
