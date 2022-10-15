@@ -50,7 +50,7 @@ item:
   - certificate_url: https://drive.google.com/file/d/1wM_ya9hyVzuZSgSMphu9MA-YPiQ3Iq1H/view?usp=drivesdk
     date_end: '2020-01-01'
     date_start: '2019-01-01'
-    description: 'For academic outsanding achievements.'
+    description: 'For academic outsanding achievements (twice).'
     organization: Nilai University
     organization_url: https://www.nilai.edu.my/
     title: 'Dean List'
