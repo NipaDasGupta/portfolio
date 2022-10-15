@@ -2,8 +2,7 @@
 title: Nipa Das Gupta
 role: Software Engineer
 avatar_filename: null
-bio: My research interests include artificial intelligence, machine learning,
-  deep learning and programmable matter.
+bio: My research interests include artificial intelligence, machine learning, deep learning and programmable matter.
 interests:
   - Artificial Intelligence
   - TED Talks
@@ -47,7 +46,7 @@ superuser: true
 last_name: Das Gupta
 highlight_name: true
 first_name: Nipa
-email: ""
+email: "nipantika.nipa@gmail.com"
 ---
 Hi, I'm Nipa, a Software Engineer. As of September 2022, I have been Machine Learning Engineer Intern in Selangor (Malaysia) for four months, exploring and evaluating global face detection & recognition solutions for e-KYC documents.
 
