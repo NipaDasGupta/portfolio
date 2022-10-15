@@ -25,7 +25,7 @@ experience:
   - title: Machine Learning Engineer Intern
     company: Xendity Sdn Bhd
     company_url: 'https://www.xendity.com/'
-    company_logo: xendity
+    company_logo: null
     location: Selangor, Malaysia
     date_start: '2022-06-01'
     date_end: '2022-09-30'
