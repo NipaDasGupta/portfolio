@@ -42,7 +42,7 @@ education:
       year: 2015
     - course: Secondary School Certificate
       institution: Raozan R.R.A.C Model High School
-      year: 2015
+      year: 2013
 superuser: true
 last_name: Bighetti
 highlight_name: true
