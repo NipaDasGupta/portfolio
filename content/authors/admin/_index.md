@@ -36,17 +36,17 @@ education:
   courses:
     - course: BSc in Software Engineering
       institution: Nilai University
-      year: 2022
+      year: 2018 - 2022
     - course: Higher School Certificate
       institution: Chittagong Engineering University School & College
-      year: 2015
+      year: 2013 - 2015
     - course: Secondary School Certificate
       institution: Raozan R.R.A.C Model High School
-      year: 2013
+      year: 2011 - 2013
 superuser: true
-last_name: Bighetti
+last_name: Das Gupta
 highlight_name: true
-first_name: Alice
+first_name: Nipa
 email: ""
 ---
 Hi, I'm Nipa, a Software Engineer. As of September 2022, I have been Machine Learning Engineer Intern in Selangor (Malaysia) for four months, exploring and evaluating global face detection & recognition solutions for e-KYC documents.
