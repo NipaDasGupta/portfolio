@@ -36,13 +36,13 @@ education:
   courses:
     - course: BSc in Software Engineering
       institution: Nilai University
-      year: ""
+      year: 2022
     - course: Higher School Certificate
       institution: Chittagong Engineering University School & College
-      year: ""
+      year: 2015
     - course: Secondary School Certificate
       institution: Raozan R.R.A.C Model High School
-      year: ""
+      year: 2015
 superuser: true
 last_name: Bighetti
 highlight_name: true
