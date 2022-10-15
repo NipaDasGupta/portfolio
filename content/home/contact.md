@@ -21,8 +21,8 @@ content:
   address:
     street: Baran Vaidya House
     city: Raozan
-    region: Chattogram
     postcode: '4340'
+    region: Chattogram
     country: Bangladesh
     country_code: BD
   coordinates:
