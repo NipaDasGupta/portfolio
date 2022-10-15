@@ -55,4 +55,4 @@ Catch me outside of work, you’ll find me reading books, blogs, and newsletters
 
 Please visit my GitHub and LinkedIn pages (or download my Resume) by using the links below!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/resume.pdf" "newtab" >}}Resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/Resume.pdf" "newtab" >}}Resumé{{< /staticref >}}.
