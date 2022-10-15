@@ -2,7 +2,6 @@
 title: Project III
 summary: Software Engineering Virtual Experience Program.
 tags:
-  - Data Science
   - Data Visualization
   - Data Processing
 date: '2022-05-03T00:00:00Z'

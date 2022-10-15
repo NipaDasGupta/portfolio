@@ -2,7 +2,6 @@
 title: Project II
 summary: Software Engineering Virtual Experience.
 tags:
-  - Data Science
   - Data Visualization
 date: '2022-05-01T00:00:00Z'
 
