@@ -8,7 +8,7 @@ experience:
     company_logo: null
     location: Selangor, Malaysia
     date_start: '2022-06-01'
-    date_end: '2022-09-31'
+    date_end: '2022-09-30'
     description: Implemented and evaluated machine learning models for face detection and face recognition based on e-KYC documents.
 
 design:
