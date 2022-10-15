@@ -29,8 +29,6 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: Machine Learning
-    - name: Data science
-      tag: Data Science
     - name: Other
       tag: Demo
 
