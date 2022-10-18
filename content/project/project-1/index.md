@@ -18,8 +18,8 @@ links:
     name: Follow
     url: https://twitter.com/nipa_das_gupta/status/1544613920434171904
 url_code: https://github.com/NipaDasGupta/DrowsinessDetection
-url_pdf: https://drive.google.com/file/d/15KRiEycAkr54TyqSnjlaZolSi4RkoDMs/view?usp=sharing
-url_slides: 'https://docs.google.com/presentation/d/1jCiYPg6uJHg7LeekgWNPwLu-ciAltLeaDTHLVJVjmBU/edit?usp=sharing'
+url_pdf: https://drive.google.com/file/d/1htvj1831e5e6gS9CmRm2sp6Q-7VRsb-I/view?usp=sharing
+url_slides: 'https://docs.google.com/presentation/d/1ArsuSQyBqu8DCzIm1v86Vn44eKfQJ8RR/edit?usp=sharing&ouid=100227760510168348656&rtpof=true&sd=true'
 url_video: ''
 
 # Slides (optional).
