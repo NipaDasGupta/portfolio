@@ -50,7 +50,9 @@ email: "nipantika.nipa@gmail.com"
 ---
 Hi, I'm Nipa, a Software Engineer. As of September 2022, I have been Machine Learning Engineer Intern in Selangor (Malaysia) for four months, exploring and evaluating global face detection & recognition solutions for e-KYC documents.
 
-Catch me outside of work, you’ll find me reading books, blogs, and newsletters, gaming, or watching the content for my study related on YouTube channels.
+Catch me outside of work, you’ll find me reading books, blogs, and newsletters, gaming, or watching the content for my study related on YouTube channels.Hi, I’m Nipa, a Software Engineer. As of September 2022, I have been Machine Learning Engineer Intern in Selangor (Malaysia) for four months, exploring and evaluating global face detection & recognition solutions for e-KYC documents.
+Catch me outside of work. You’ll find me reading books, blogs, newsletters, gaming, or watching content for my study on YouTube channels.
+Please visit my GitHub and LinkedIn pages (or download my Resume) by using the links below!
 
 Please visit my GitHub and LinkedIn pages (or download my Resume) by using the links below!
 
