@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: Machine Learning
+    - name: Deep Learning
+      tag: Deep Learning
     - name: Data science
       tag: Data Science
     - name: Other

@@ -2,7 +2,7 @@
 title: Project I
 summary: Detect Driver Drowsiness Face Expression Using Convolutional Neural Networks.
 tags:
-  - Machine Learning
+  - deep Learning
 date: '2021-10-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -29,11 +29,11 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 ---
 
-This project is a machine learning object detection problem that aims to predict if a driver is in a drowsy or awake state to avoid fatal and serious accidents in real-time for driver health and safety. Several machine learning models were trained for this project and the SSD MobileNet V2 had the best performance among the model trained.
+This project is a deep learning object detection problem that aims to predict if a driver is in a drowsy or awake state to avoid fatal and serious accidents in real-time for driver health and safety. Several deep learning models were trained for this project and the SSD MobileNet V2 had the best performance among the model trained.
 
 The following task were carried out in this project:
 
-+ Utilized Python to develop an supervised machine learning drowsiness detection system model using techniques such as SSD MobileNet V2 FPNLite 320x320 algorithm for detecting the facial key attributes as fatigue
++ Utilized Python to develop an supervised deep learning drowsiness detection system model using techniques such as SSD MobileNet V2 FPNLite 320x320 algorithm for detecting the facial key attributes as fatigue
 
 + To predict drowsy driver using a detection box by combining the features of the facial expression on 1.83 GB of the unstructured dataset using TensorFlow Object Detection API, which accomplished total precision & recall by approximately 88%
 
