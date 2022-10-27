@@ -52,7 +52,7 @@ Hi, I’m Nipa, a Software Engineer. As of September 2022, I have been Machine
 Learning Engineer Intern in Selangor (Malaysia) for four months, exploring and
 evaluating global face detection & recognition solutions for e-KYC documents.
 
-Catch me outside of work. You’ll find me reading books, blogs, newsletters,
+Catch me outside of work; you’ll find me reading books, blogs, newsletters,
 gaming, or watching content for my study on YouTube channels.
 
 Please visit my GitHub and LinkedIn pages (or download my Resume) by using the
