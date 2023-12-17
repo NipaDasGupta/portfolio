@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://drive.google.com/file/d/1kZ2X6s2lH5yK7OSkSZpl_zG7mGuznqP0/view?usp=sharing
     date_end: ''
-    date_start: '2013-08-23'
+    date_start: '2023-08-23'
     description: 'For academic outstanding achievements.'
     organization: Nilai University
     organization_url: https://www.nilai.edu.my/
