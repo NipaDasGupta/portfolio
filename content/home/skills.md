@@ -22,7 +22,7 @@ feature:
     name: Python
   - description:
     icon: sql
-    icon_pack: assets\media\icons\brands\sql.svg
+    icon_pack: assets\media\icons\brands\sql
     name: SQL
   - description:
     icon: c
