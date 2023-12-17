@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/nipa_das_gupta
+    link: https://twitter.com/codewithnipa
     label: Follow me on Twitter
     display:
       header: true

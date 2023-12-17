@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://drive.google.com/file/d/1kZ2X6s2lH5yK7OSkSZpl_zG7mGuznqP0/view?usp=sharing
+    date_end: ''
+    date_start: '2013-08-23'
+    description: 'For academic outstanding achievements.'
+    organization: Nilai University
+    organization_url: https://www.nilai.edu.my/
+    title: 'Best Student Award'
+    url: ''
   - certificate_url: https://drive.google.com/file/d/1g7qSJFmM9nym6rltoEmGxnyz_mH_7m53/view?usp=sharing
     date_end: ''
     date_start: '2022-07-23'
@@ -50,7 +58,7 @@ item:
   - certificate_url: https://drive.google.com/file/d/1wM_ya9hyVzuZSgSMphu9MA-YPiQ3Iq1H/view?usp=drivesdk
     date_end: '2020-01-01'
     date_start: '2019-01-01'
-    description: 'For academic outsanding achievements (twice).'
+    description: 'For academic outstanding achievements (twice).'
     organization: Nilai University
     organization_url: https://www.nilai.edu.my/
     title: 'Dean List'

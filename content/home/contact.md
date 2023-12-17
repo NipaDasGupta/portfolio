@@ -17,7 +17,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: nipantika.nipa@gmail.com
-  phone: +60 17-2471083
+  phone: +880 160-8926053
   address:
     street: Baran Vaidya House
     city: Raozan
@@ -29,10 +29,10 @@ content:
     latitude: '22.5277056'
     longitude: '91.9207616'
   contact_links:
-    - icon: twitter
+    - icon: whatsapp
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/nipa_das_gupta'
+      link: 'https://wa.me/message/XFDAHSXGGN3TC1'
 
 design:
   columns: '2'
