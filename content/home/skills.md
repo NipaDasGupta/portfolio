@@ -21,8 +21,8 @@ feature:
     icon_pack: fab
     name: Python
   - description:
-    icon: assets\media\icons\brands\sql.svg
-    icon_pack: fab
+    icon: sql
+    icon_pack: assets\media\icons\brands\sql.svg
     name: SQL
   - description:
     icon: c
