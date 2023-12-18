@@ -55,13 +55,21 @@ item:
     organization_url: https://www.jpmorganchase.com/
     title: Software Engineering Virtual Experience
     url: ''
-  - certificate_url: https://drive.google.com/file/d/1wM_ya9hyVzuZSgSMphu9MA-YPiQ3Iq1H/view?usp=drivesdk
+  - certificate_url: https://drive.google.com/file/d/1tVOqbPETYuh0Rz93z6COEQ7AjQ0DJ94_/view?usp=sharing
     date_end: '2020-01-01'
     date_start: '2019-01-01'
     description: 'For academic outstanding achievements (twice).'
     organization: Nilai University
     organization_url: https://www.nilai.edu.my/
     title: 'Dean List'
+    url: ''
+  - certificate_url: https://drive.google.com/file/d/1KQsNEOMEA__hyriz2hk626VuytINAeij/view?usp=sharing
+    date_end: ''
+    date_start: '2013-06-17'
+    description: 'For academic outstanding achievements.'
+    organization: Raozan Club
+    organization_url: 
+    title: 'Certificate of Merit'
     url: ''
 
 design:
