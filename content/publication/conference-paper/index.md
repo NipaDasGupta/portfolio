@@ -15,7 +15,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
-doi: '10.24191/mjoc.v8i1.20286'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-10T00:00:00Z'
