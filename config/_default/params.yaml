@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme: minimal
-  day_night: true
+  theme_day: forest
+  theme_night: forest
   font: ''
   font_size: L
 
