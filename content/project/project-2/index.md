@@ -19,9 +19,9 @@ links:
     name: Follow
     url: https://twitter.com/nipa_das_gupta/status/1520779292103249921
 url_code: https://github.com/NipaDasGupta/TechTask
-url_pdf: 
-url_slides: ''
-url_video: ''
+# url_pdf: 
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

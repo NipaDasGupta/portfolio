@@ -20,9 +20,9 @@ links:
     name: Follow
     url: https://twitter.com/nipa_das_gupta/status/1521412423802007553
 url_code: https://github.com/NipaDasGupta/quantium
-url_pdf: 
-url_slides: ''
-url_video: ''
+# url_pdf: 
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

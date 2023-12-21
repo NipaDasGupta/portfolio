@@ -20,7 +20,7 @@ links:
 url_code: https://github.com/NipaDasGupta/DrowsinessDetection
 url_pdf: https://drive.google.com/file/d/1htvj1831e5e6gS9CmRm2sp6Q-7VRsb-I/view?usp=sharing
 url_slides: 'https://docs.google.com/presentation/d/1ArsuSQyBqu8DCzIm1v86Vn44eKfQJ8RR/edit?usp=sharing&ouid=100227760510168348656&rtpof=true&sd=true'
-url_video: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
