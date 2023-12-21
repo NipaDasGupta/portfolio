@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -29,7 +29,7 @@ experience:
     location: Selangor, Malaysia
     date_start: '2022-06-01'
     date_end: '2022-09-30'
-    description: Implemented and evaluated machine learning models for face detection and face recognition based on e-KYC documents.
+    description: Enhanced e-KYC document verification processes through meticulous evaluation and optimization of face detection models, focusing on accuracy and speed.
 
 design:
   columns: '2'
