@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: classic
-  theme_night: minimal
-  font: forest
+  theme_night: classic
+  font: peach
   font_size: L
 
 # SEO
