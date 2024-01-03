@@ -36,7 +36,7 @@ education:
     - course: BSc in Software Engineering
       institution: Nilai University
       year: 2018 - 2022
-    - course: Higher School Certificate
+    - course: Higher Secondary Certificate
       institution: Chittagong Engineering University School & College
       year: 2013 - 2015
     - course: Secondary School Certificate
